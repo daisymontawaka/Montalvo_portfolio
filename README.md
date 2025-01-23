@@ -6,8 +6,8 @@ Applied Mathematics, BS
 Biology , minor
 Statistics, minor
 
-###Work Experience 
+### Work Experience 
 Inventory Specialist @ CVS Pharmacy
 
-###Projects
+### Projects
 Kaggle Healthcare Data Analysis
