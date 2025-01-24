@@ -1,10 +1,10 @@
 # Data Analyst
 
 ### Education
-Data Science, MD
+Data Science, MD //
 Applied Mathematics, BS
-Biology , minor
-Statistics, minor
+Biology , Minor
+Statistics, Minor
 
 ### Work Experience 
 Inventory Specialist @ CVS Pharmacy
