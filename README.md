@@ -9,8 +9,11 @@ Biology , Minor
 
 Statistics, Minor
 
+### Projects
+Kaggle Healthcare Data Analysis
+
 ### Work Experience 
-##Inventory Specialist / Pharmacy Technician CVS Pharmacy, Arcata, CA | 2024 – Present
+Inventory Specialist / Pharmacy Technician CVS Pharmacy, Arcata, CA | 2024 – Present
 
 Processed prescriptions with precision, ensuring compliance with regulatory standards and patient safety protocols.
 
@@ -23,7 +26,7 @@ Conducted customer outreach to improve compliance and addressed patient inquirie
 Supported pharmacy clerks by assisting with POS transactions and maintaining clean and organized workstations.
 
 
-##Auditor-Controller Fiscal Assistant II Humboldt County, Eureka, CA | 2023 – 2024
+Auditor-Controller Fiscal Assistant II Humboldt County, Eureka, CA | 2023 – 2024
 
 Coordinated and maintained records for financial reporting and audits, ensuring compliance with regulatory requirements.
 
@@ -32,7 +35,7 @@ Processed time-sensitive expense reports and prepared procurement documents.
 Provided scheduling support, organized meetings, and managed agendas to support departmental objectives.
 
 
-##Inventory Specialist / Pharmacy Technician CVS Pharmacy, Arcata, CA | 2020 – 2023
+Inventory Specialist / Pharmacy Technician CVS Pharmacy, Arcata, CA | 2020 – 2023
 
 Managed detailed inventory records, ensuring accuracy and compliance with organizational policies.
 
@@ -40,5 +43,3 @@ Coordinated the scheduling of supplies and inventory restocking, resolving discr
 
 Delivered exceptional customer service and collaborated with team members to ensure smooth operations.
 
-### Projects
-Kaggle Healthcare Data Analysis
